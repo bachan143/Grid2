@@ -197,12 +197,20 @@ body {
 
   color: white;
 }
+
 .bulk_actions label
 {
   color: black;
   font-size: 20px;
 }
 .bulk_actions select
+{
+  width: 225px;
+  margin-top: 10px;
+  padding: 10px;
+  border-radius: 5px;
+}
+.bulk_actions input
 {
   width: 225px;
   margin-top: 10px;
@@ -257,5 +265,105 @@ body {
      border-radius: 5px;
      background-color:#0d78a9;
      color: white;
+
+}
+.Platform_settings label{
+    color: black;
+    font-size: 20px;
+}
+.Platform_settings select{
+
+    width: 225px;
+    margin-top: 10px;
+    padding: 10px;
+    border-radius: 5px;
+
+}
+.Platform_settings input
+{
+  width: 200px;
+  margin-top: 10px;
+  padding: 10px;
+  border-radius: 5px;
+}
+.Platform_settings button{
+  width: 230px;
+  margin-top: 10px;
+  padding: 10px;
+  border-radius: 5px;
+  background-color:#0d78a9;
+  color: white;
+}
+.display_setting label{
+  font-size: 20px;
+  color: black;
+}
+.display_setting select{
+  width: 225px;
+  margin-top: 10px;
+  padding: 10px;
+  border-radius: 5px;
+}
+.display_setting button{
+  width: 230px;
+  margin-top: 10px;
+  padding: 10px;
+  border-radius: 5px;
+  background-color:#0d78a9;
+  color: white;
+
+}
+.time_stamp
+{
+    color: black;
+    font-size: 20px;
+}
+.time_stamp button
+{
+  width: 230px;
+  margin-top: 10px;
+  padding: 10px;
+  border-radius: 5px;
+  background-color:#0d78a9;
+  color: white;
+}
+.myaccount_detalis button{
+  width: 176px;
+  margin-top: 10px;
+  padding: 10px;
+  border-radius: 5px;
+  background-color:#0d78a9;
+  color: white;
+}
+.table1{
+    width: 100%;
+    padding-top: 20px;
+    margin-top: 20px;
+    background-color: black;
+    color: white;
+
+}
+.table1 th{
+     font-size: 20px;
+     padding:5px;
+}
+.change_detalis
+{
+    color: black;
+    font-size: 20px;
+}
+.change_detalis input
+{
+  margin-top: 10px;
+  padding: 10px;
+  border-radius: 5px;
+}
+.change_detalis button{
+  width: 176px;
+  margin-top: 10px;
+  padding: 10px;
+  border-radius: 5px;
+  background-color:#0d78a9;
+  color: white;
 
 }
